@@ -1,12 +1,14 @@
 # data_risk
 ________________________________________________________________________________________________________________________
 Case - Modelo preditivo para aprovação de crédito 
-<br\>
-Modelos de score de crédito calculam a probabilidade de inadimplência e são uma das principais ferramentas utilizadas por diversas empresas para aprovar ou negar um crédito. <br\>
-O objetivo deste desafio é criar um modelo preditivo calculando a probabilidade de inadimplência de cada novo pedido de crédito. <br\>
-Dados: Cada linha representa um cliente e as colunas representam os dados (informações) desses clientes. <br\>
+
+Modelos de score de crédito calculam a probabilidade de inadimplência e são uma das principais ferramentas utilizadas por diversas empresas para aprovar ou negar um crédito. 
+
+O objetivo deste desafio é criar um modelo preditivo calculando a probabilidade de inadimplência de cada novo pedido de crédito.
+Dados: Cada linha representa um cliente e as colunas representam os dados (informações) desses clientes. 
+
 A variável resposta é a coluna inadimplente, que indica se o tomador veio a se tornar inadimplente(1) ou não(0).
-<br\><br\>
+
 As variáveis da base de dados são descritas abaixo:
 <hr\>
 <ul>
@@ -22,9 +24,12 @@ As variáveis da base de dados são descritas abaixo:
 <li>numero_de_vezes_que_passou_60_89_dias: Número de vezes que o cliente atrasou, entre 60 e 89 dias, o pagamento de um empréstimo. </li>
 </ul>
 <hr\>
+
 Obs: Estes dados foram retirados de terceiros, portanto é possível que existamincoerências, o que é perfeitamente comum em dados reais.
 <hr>
-Objetivo: Construir qualquer modelo preditivo utilizando o arquivo treino.csv. <br \>
+
+Objetivo: Construir qualquer modelo preditivo utilizando o arquivo treino.csv.
+
 Utilize este modelo para gerar as previsões na base teste.csv, inserindo uma nova coluna na tabela de dados do arquivo teste.csv que contenha as previsões e nomeie esta coluna com o nome "inadimplente".Espera-se que não seja necessário mais que um dia para a resolução deste problema. <br \>
 
 <hr\>
