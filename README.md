@@ -26,7 +26,6 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 
 Obs: Estes dados foram retirados de terceiros, portanto é possível que existamincoerências, o que é perfeitamente comum em dados reais.
-<hr>
 
 Objetivo: Construir qualquer modelo preditivo utilizando o arquivo treino.csv.
 
