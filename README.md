@@ -6,9 +6,9 @@ Modelos de score de crédito calculam a probabilidade de inadimplência e são u
 
 O objetivo deste desafio é criar um modelo preditivo calculando a probabilidade de inadimplência de cada novo pedido de crédito.
 
-Dados: Cada linha representa um cliente e as colunas representam os dados (informações) desses clientes. 
+<strong>Dados:</strong>  Cada linha representa um cliente e as colunas representam os dados (informações) desses clientes. 
 
-A variável resposta é a coluna inadimplente, que indica se o tomador veio a se tornar inadimplente(1) ou não(0).
+A <strong>variável resposta </strong> é a coluna inadimplente, que indica se o tomador veio a se tornar inadimplente(1) ou não(0).
 
 As variáveis da base de dados são descritas abaixo:
 ________________________________________________________________________________________________________________________
@@ -26,11 +26,11 @@ ________________________________________________________________________________
 </ul>
 ________________________________________________________________________________________________________________________
 
-Obs: Estes dados foram retirados de terceiros, portanto é possível que existamincoerências, o que é perfeitamente comum em dados reais.
+Obs: Estes dados foram retirados de terceiros, portanto é possível que existam incoerências, o que é perfeitamente comum em dados reais.
 
-Objetivo: Construir qualquer modelo preditivo utilizando o arquivo treino.csv.
+<strong>Objetivo: </strong> Construir qualquer modelo preditivo utilizando o arquivo treino.csv.
 
 Utilize este modelo para gerar as previsões na base teste.csv, inserindo uma nova coluna na tabela de dados do arquivo teste.csv que contenha as previsões e nomeie esta coluna com o nome "inadimplente".Espera-se que não seja necessário mais que um dia para a resolução deste problema. <br \>
 
 ________________________________________________________________________________________________________________________
-Avaliação: Serão avaliados o código, preferencialmente em python ou R, e o desempenho do modelo. Para isto, só será necessário enviar o código com ​ tudo​ o que foi feito e a base de dados de teste ​ com a coluna de previsões
+<strong>Avaliação: </strong>Serão avaliados o código, preferencialmente em python ou R, e o desempenho do modelo. Para isto, só será necessário enviar o código com  tudo  o que foi feito e a base de dados de teste ​ com a coluna de previsões
