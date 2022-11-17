@@ -34,3 +34,12 @@ Utilize este modelo para gerar as previsões na base teste.csv, inserindo uma no
 
 ________________________________________________________________________________________________________________________
 <strong>Avaliação: </strong>Serão avaliados o código, preferencialmente em python ou R, e o desempenho do modelo. Para isto, só será necessário enviar o código com  tudo  o que foi feito e a base de dados de teste ​ com a coluna de previsões
+
+
+Segue o projeto :
+<ul>
+<li><a href='https://github.com/davirmarques/data_risk/blob/main/case_datarisk/prepare_test.ipynb'> Análise Inicial </li>
+<li><a href='https://github.com/davirmarques/data_risk/blob/main/case_datarisk/main.ipynb'> Resultados </li>
+</ul>
+
+
