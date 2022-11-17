@@ -10,7 +10,7 @@ Dados: Cada linha representa um cliente e as colunas representam os dados (infor
 A variável resposta é a coluna inadimplente, que indica se o tomador veio a se tornar inadimplente(1) ou não(0).
 
 As variáveis da base de dados são descritas abaixo:
-<hr\>
+________________________________________________________________________________________________________________________
 <ul>
 <li>idade: A idade do cliente.</li>
 <li>numero_de_dependentes: O número de pessoas dependentes do cliente.</li>
@@ -23,7 +23,7 @@ As variáveis da base de dados são descritas abaixo:
 <li>numero_linhas_crdto_aberto: Número de empréstimos em aberto pelo cliente.</li>
 <li>numero_de_vezes_que_passou_60_89_dias: Número de vezes que o cliente atrasou, entre 60 e 89 dias, o pagamento de um empréstimo. </li>
 </ul>
-<hr\>
+________________________________________________________________________________________________________________________
 
 Obs: Estes dados foram retirados de terceiros, portanto é possível que existamincoerências, o que é perfeitamente comum em dados reais.
 <hr>
@@ -32,5 +32,5 @@ Objetivo: Construir qualquer modelo preditivo utilizando o arquivo treino.csv.
 
 Utilize este modelo para gerar as previsões na base teste.csv, inserindo uma nova coluna na tabela de dados do arquivo teste.csv que contenha as previsões e nomeie esta coluna com o nome "inadimplente".Espera-se que não seja necessário mais que um dia para a resolução deste problema. <br \>
 
-<hr\>
+________________________________________________________________________________________________________________________
 Avaliação: Serão avaliados o código, preferencialmente em python ou R, e o desempenho do modelo. Para isto, só será necessário enviar o código com ​ tudo​ o que foi feito e a base de dados de teste ​ com a coluna de previsões
