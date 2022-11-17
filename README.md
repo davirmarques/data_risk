@@ -1,10 +1,11 @@
 # data_risk
 ________________________________________________________________________________________________________________________
-Case - Modelo preditivo para aprovação de crédito 
+Case - <strong> Modelo preditivo </strong> para aprovação de crédito 
 
 Modelos de score de crédito calculam a probabilidade de inadimplência e são uma das principais ferramentas utilizadas por diversas empresas para aprovar ou negar um crédito. 
 
 O objetivo deste desafio é criar um modelo preditivo calculando a probabilidade de inadimplência de cada novo pedido de crédito.
+
 Dados: Cada linha representa um cliente e as colunas representam os dados (informações) desses clientes. 
 
 A variável resposta é a coluna inadimplente, que indica se o tomador veio a se tornar inadimplente(1) ou não(0).
